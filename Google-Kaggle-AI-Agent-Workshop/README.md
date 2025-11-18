@@ -1,6 +1,6 @@
 # 🤖 Google | Kaggle AI Agent Workshop Repository
 
-This repository hosts the materials, code, and resources from the **Google | Kaggle AI Agent Workshop** Workshop, a comprehensive 5-day program focused on the architecture, development, and deployment of modern AI agents.
+This repository hosts the materials, code, and resources from the **Google | Kaggle AI Agent Workshop**, a comprehensive 5-day program focused on the architecture, development, and deployment of modern AI agents.
 
 ## 🌟 Workshop Overview
 
